@@ -21,24 +21,27 @@ An AI-powered plant care assistant that analyzes plant photos, detects issues, a
 - 📋 Personalized care instructions  
 - ⏰ Automatic task scheduling for watering, fertilizing, and more  
 
-**Screenshots**:
-<img src="Applications/FloraMind/fm1.png" width="200">
-<img src="Applications/FloraMind/fm2.png" width="200">
-<img src="Applications/FloraMind/fm3.png" width="200">
-
-<img src="Applications/FloraMind/fm4.png" width="200">
-<img src="Applications/FloraMind/fm5.png" width="200">
-<img src="Applications/FloraMind/fm6.png" width="200">
+<p align="center">
+  <img src="Applications/FloraMind/fm1.png" width="200">
+  <img src="Applications/FloraMind/fm2.png" width="200">
+  <img src="Applications/FloraMind/fm3.png" width="200">
+</p>
+<p align="center">
+  <img src="Applications/FloraMind/fm4.png" width="200">
+  <img src="Applications/FloraMind/fm5.png" width="200">
+  <img src="Applications/FloraMind/fm6.png" width="200">
+</p>
 
 ---
 
 ## 🐣 Chicken Roller
 A mobile game where user has to bring the egg to the pot
 
-**Screenshots:**
-<img src="Applications/Chicken Roller/ch1.png" width="200">
-<img src="Applications/Chicken Roller/ch2.png" width="200">
-<img src="Applications/Chicken Roller/ch3.png" width="200">
+<p align="center">
+  <img src="Applications/Chicken Roller/ch1.png" width="200">
+  <img src="Applications/Chicken Roller/ch2.png" width="200">
+  <img src="Applications/Chicken Roller/ch3.png" width="200">
+</p>
 
 ---
 
