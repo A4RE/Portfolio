@@ -78,12 +78,12 @@ A mobile game where user has to control ball and destroy fruits
 A mobile app that allows the user to add recipes himself, as well as generate them using ChatGpt, sending only what is in the refrigerator
 
 <p align="center">
-  <img src="Applications/Noodles/nd1.png" width="200">
-  <img src="Applications/Noodles/nd2.png" width="200">
+  <img src="Applications/Noodles/ndl1.png" width="200">
+  <img src="Applications/Noodles/ndl2.png" width="200">
 </p>
 <p align="center">
-  <img src="Applications/Noodles/nd3.png" width="200">
-  <img src="Applications/Noodles/nd4.png" width="200">
+  <img src="Applications/Noodles/ndl3.png" width="200">
+  <img src="Applications/Noodles/ndl4.png" width="200">
 </p>
 
 ---
@@ -97,7 +97,7 @@ A mobile game where the user needs to launch a ball to collect coins
 </p>
 <p align="center">
   <img src="Applications/ShadeShift/ss3.png" width="200">
-  <img src="Applications/ShadeShift/s4.png" width="200">
+  <img src="Applications/ShadeShift/ss4.png" width="200">
 </p>
 
 ---
