@@ -1,8 +1,7 @@
 # 📱 iOS Apps Portfolio
 
 Welcome to my portfolio repository!  
-Here you'll find a collection of my iOS applications, each with a short description and screenshots to showcase my work.  
-All apps are designed and developed by me, with a focus on clean UI, smooth UX, and modern technologies.
+Here you'll find a collection of my iOS applications, each with a short description and screenshots to showcase my work.
 
 ---
 
