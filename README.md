@@ -22,7 +22,7 @@ An innovative iOS app developed as a master's thesis project. It uses artificial
 </p>
 <p align="center">
   <img src="Applications/Skinly/sk3.png" width="200">
-  <img src="Applications/Skinly/sk.png" width="200">
+  <img src="Applications/Skinly/sk4.png" width="200">
 </p>
 
 ---
