@@ -122,6 +122,31 @@ A mobile fitness app that helps users track their fitness progress by assigning 
 
 ---
 
+## Flow Mind
+A mobile task‑tracking app with a built‑in AI assistant that helps you stay productive and focused.
+It guides you through goal‑setting, breaks tasks into actionable steps, and tracks your progress using proven productivity methods.
+With AI‑powered suggestions and insights, Flow Mind helps you work smarter, avoid burnout, and achieve your goals faster.
+
+<p align="center">
+  <img src="Applications/FlowMind/1.png" width="200">
+  <img src="Applications/FlowMind/2.png" width="200">
+  <img src="Applications/FlowMind/3.png" width="200">
+  <img src="Applications/FlowMind/4.png" width="200">
+</p>
+<p align="center">
+  <img src="Applications/FlowMind/5.png" width="200">
+  <img src="Applications/FlowMind/6.png" width="200">
+  <img src="Applications/FlowMind/7.png" width="200">
+  <img src="Applications/FlowMind/8.png" width="200">
+</p>
+<p align="center">
+  <img src="Applications/FlowMind/9.png" width="200">
+  <img src="Applications/FlowMind/10.png" width="200">
+  <img src="Applications/FlowMind/11.png" width="200">
+</p>
+
+---
+
 ## 📜 License
 All screenshots and visuals in this repository are the property of the author.  
 Reuse, distribution, or modification is **not allowed** without explicit permission.
